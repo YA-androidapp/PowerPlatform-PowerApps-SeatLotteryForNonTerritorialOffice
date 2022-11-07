@@ -1,0 +1,2 @@
+# PowerPlatform-PowerApps-SeatLotteryForNonTerritorialOffice
+ フリーアドレス制オフィスでの座席抽選を行う Power Apps キャンバスアプリ
